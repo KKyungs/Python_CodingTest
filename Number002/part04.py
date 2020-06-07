@@ -21,7 +21,6 @@ def result():
             if x > score:
                 score = x
                 res = idx + 1
-
     print(avg, res)
 
 if __name__ == '__main__':
